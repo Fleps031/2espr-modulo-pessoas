@@ -17,7 +17,6 @@ O **Módulo Pessoas** é um projeto Java que implementa funcionalidades essencia
 
 - **Linguagem**: Java
 - **IDE**: IntelliJ IDEA (suportado)
-- **Build**: Maven/Gradle (configurável)
 
 ## 📁 Estrutura do Projeto
 
@@ -55,23 +54,6 @@ cd 2espr-modulo-pessoas
 javac -d bin src/**/*.java
 ```
 
-## 📖 Como Usar
-
-[Adicione exemplos de uso do módulo aqui após implementação]
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Por favor:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença [especificar licença]. Veja o arquivo LICENSE para mais detalhes.
 
 ## ✉️ Contato
 
